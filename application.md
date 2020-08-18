@@ -4,6 +4,4 @@
 
 # TITLE below
 
-# COMMIT below
-
 # PULL REQUEST below
