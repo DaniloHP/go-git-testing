@@ -12,3 +12,4 @@ submit.go		QmTzASna3HNBtncozgBGuqF8UEuRao9Tkub8Rn4gw3nZWF
 root.go		QmQRF1GKTQY6c9qeHQss22hpKs4SkLNU8bXUiHVKs5w5r5
 upload.go		QmXZcttVadkvopNAgaShCBrGEjKe1aJw5CwjvUxhAsS17T
 remove.go		QmfM4qJaPidN9exjgQgivb7XTe361K9x34Fpok16pcmZzT
+go.mod		QmTvrExhNER5MnWdKzj3SgWYuheTFXVDGB4ZMr2WR7WbBG
