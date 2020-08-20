@@ -7,3 +7,6 @@ status.go		QmNRKSd8F4Px1M2NVV1ynxjvYR1HPPYV4Zx2rWXK56m7qo
 submit.go		QmTzASna3HNBtncozgBGuqF8UEuRao9Tkub8Rn4gw3nZWF
 upload.go		QmXZcttVadkvopNAgaShCBrGEjKe1aJw5CwjvUxhAsS17T
 init.go		QmP8pW3mTEpSayRNYAmYYSNuj9E5onH3NdhvwDKVreg5eM
+default.go		QmStbgxnrxF1MX8YBkdNFo8oceJ1txibByjiarbFSyXivv
+config.go		QmWGtx4a8ipCmQuUTM7hWGYwmwNekb7S8ZT3zgXkxXetJo
+env.go		QmYHbhTfGckpuqtw679ZMSpJVQxouHMYeT5PXav1h54wbu
