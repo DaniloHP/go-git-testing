@@ -12,3 +12,7 @@ upload.go          QmXZcttVadkvopNAgaShCBrGEjKe1aJw5CwjvUxhAsS17T
 add.go             QmTxCH3Ngfm3JzUK5dxUqvfDRX5URhpvsfHvMMiVggeZhd
 root.go            QmQRF1GKTQY6c9qeHQss22hpKs4SkLNU8bXUiHVKs5w5r5
 init.go            QmP8pW3mTEpSayRNYAmYYSNuj9E5onH3NdhvwDKVreg5eM
+add.go         QmTj96GCDqAWtCHvnovaM1N2n3bstDJtzL2Mw6DoRUwSXo
+provs.go       QmWWmDGAJr5yUxxtmdZ3WmstsH641QJtjpuDgh8BaiyMDR
+add_test.go    QmZUe2Mx4zpYdSUULzDGr5qua3goPfKPEe6Kr6eEqbUNBG
+ipfs.go        QmeyzypxvRFg8XKrUqXSVoJEqQkX62xaC2am8gM9EQi7Fh
