@@ -16,3 +16,4 @@ add.go         QmTj96GCDqAWtCHvnovaM1N2n3bstDJtzL2Mw6DoRUwSXo
 provs.go       QmWWmDGAJr5yUxxtmdZ3WmstsH641QJtjpuDgh8BaiyMDR
 add_test.go    QmZUe2Mx4zpYdSUULzDGr5qua3goPfKPEe6Kr6eEqbUNBG
 ipfs.go        QmeyzypxvRFg8XKrUqXSVoJEqQkX62xaC2am8gM9EQi7Fh
+go.sum    QmcacyK7Hynx96WZn6MhijqFwt3bMkfC55eheqvDjEAex9
