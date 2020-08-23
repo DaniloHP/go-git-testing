@@ -19,7 +19,7 @@ science/biology/datasets
 test
 
 <!-- An empty commit message will abort the submission.
-Describe the files in more detail.
+Describe the files in more detail. -->
 # COMMIT below
 commit message
 
